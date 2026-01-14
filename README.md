@@ -103,10 +103,6 @@ Test the model locally by typing text inputs to see if the model correctly ident
 
 ---
 
-## ⚠️ Disclaimer
-
-> **Important:** This project is for educational and demonstration purposes only. Automated calling systems must comply with local regulations (such as **TCPA** in the US or **TRAI** regulations in India). Ensure you have explicit consent before calling real phone numbers.
-
 ## 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
